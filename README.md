@@ -8,7 +8,7 @@ Alur algoritma
 Mendeklarasikan variabel 'int nilai[3],a,min,maks;' sebagai variable input.
 Membaca input dari keyboard 'else if(nilai[a] > maks)'
 Membandingkan nilai variable //output minimum dan maksimum
-Flowchart Program 
+Flowchart(https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/Flowchart1.png)
 
 Screenshoot 
 
