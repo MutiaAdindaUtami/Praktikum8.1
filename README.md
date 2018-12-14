@@ -144,7 +144,7 @@ Membandingkan nilai variable main (){ matrik_1(); matrik_2();
  			}
 ![Flowchart](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/Flowchart3.png)
 
-Screenshoot 
+![Screenshoot](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/poto3.png)
 
 code program lengkap '''c++ 
 #include <iostream>
