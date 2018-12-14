@@ -55,7 +55,7 @@ Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
 Membandingkan nilai variable HitungStatistik run;
 ![FlowcharT](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/Flowchart2.png)
 
-![Screnshoot]
+![Screnshoot](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/poto2.png)
 
 code program lengkap '''c++ 
 #include <iostream>
