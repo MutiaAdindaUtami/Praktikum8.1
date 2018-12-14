@@ -142,7 +142,7 @@ Membandingkan nilai variable main (){ matrik_1(); matrik_2();
  			getch();
  			return 0;
  			}
-Flowchart Program
+![Flowchart](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/Flowchart3.png)
 
 Screenshoot 
 
