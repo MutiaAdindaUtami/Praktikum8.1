@@ -8,9 +8,9 @@ Alur algoritma
 Mendeklarasikan variabel 'int nilai[3],a,min,maks;' sebagai variable input.
 Membaca input dari keyboard 'else if(nilai[a] > maks)'
 Membandingkan nilai variable //output minimum dan maksimum
-Flowchart(https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/Flowchart1.png)
+![Flowchart](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/Flowchart1.png)
 
-Screenshoot 
+![Screenshoot](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/poto1.png)
 
 code program lengkap '''c++ //*Program mancari nilai minimum dan maksimum*/
 #include <iostream>
