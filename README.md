@@ -53,9 +53,9 @@ Alur algoritma
 Mendeklarasikan variabel 'class HitungStatistik' sebagai variable input.
 Membaca input dari keyboard 'for (int i=0; i<20; i++) f[i] = 0;'
 Membandingkan nilai variable HitungStatistik run;
-Flowchart Program 
+![FlowcharT](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum8.1/master/Flowchart2.png)
 
-Screnshoot 
+![Screnshoot]
 
 code program lengkap '''c++ 
 #include <iostream>
